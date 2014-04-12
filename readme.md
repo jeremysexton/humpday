@@ -1,4 +1,4 @@
-#Forecaster
+#Humpday
 
 A Statamic modifier that camelCases any string you throw at it!
 
